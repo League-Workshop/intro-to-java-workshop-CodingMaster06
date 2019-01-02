@@ -6,7 +6,7 @@ import org.jointheleague.graphical.robot.Robot;
 public class FourSquare {
 	
 	Robot r = new Robot();
-	
+	//pen down
 	void go() {
 		// 4. Make the robot move as fast as possible
 		r.setSpeed(100);
