@@ -14,4 +14,21 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/section5/Maze.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Maze.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/section5/SCARY.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/SCARY.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/section5/jeopardy.wav</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/jeopardy.wav</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
